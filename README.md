@@ -1,6 +1,6 @@
 # Providing-data-driven-suggestions-for-HR
 
-## Project Overview
+###### Project Overview
 
   The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company.
   The goal in this project is to analyze the data collected by the HR department and to build a Decision Tree, and Random Forest models that predicts whether or not an employee will leave the company.
