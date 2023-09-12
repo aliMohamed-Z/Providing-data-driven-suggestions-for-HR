@@ -15,6 +15,8 @@
 ### Data Understanding
 
   This project uses a dataset called HR_capstone_dataset.csv from Kaggle. It represents 10 columns of self-reported information from employees of a multinational vehicle manufacturing   corporation, and 14,999 rows.
+  The histogram below shows the counts of employees who stayed vs left by Department exist in the data set.
+  
   <img width="411" alt="image" src="https://github.com/aliMohamed-Z/Providing-data-driven-suggestions-for-HR/assets/75675790/ec1b0a98-015e-44b4-9ca6-c119661f7360">
 
 
