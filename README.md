@@ -4,8 +4,8 @@
 
   The goal of this project is to create Decision Tree and Random Forest models that predicts whether or not an employee will leave the company. 
   This project utilized the data collected by the HR department.
-  The decision tree model performed with 97% accuracy and 91% precision, and the random forest model performed with 98% accuracy and 95% precision.
-  Based on the two models, last_evaluation, number_project, tenure, and overworked were most influential in determining whether or not an employee will leave the company.
+  The decision tree model performed with 97% accuracy and 91% precision, and the random forest model performed with 98% accuracy and 96% precision.
+  Based on the two models,  satisfaction_level, number_project,last_evaluation, tenure, and average_monthly_hours were most influential in determining whether or not an employee will leave the company.
   
 ### Business Understanding
 
@@ -21,11 +21,12 @@
 
 ### Modelling and Evaluation
   
-  The plot below shows that in this random forest model, last_evaluation, number_project, tenure, and overworked have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left, and they are the same as the ones used by the decision tree model.
+  The plot below shows that in this random forest model, satisfaction_level, number_project,last_evaluation, tenure, and average_monthly_hours have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left, and they are the same as the ones used by the decision tree model.
 
-  ![image](https://github.com/aliMohamed-Z/Providing-data-driven-suggestions-for-HR/assets/75675790/9ea95ae9-5e27-4dd0-b550-e9f9f6c14619)
+  ![image](https://github.com/aliMohamed-Z/Providing-data-driven-suggestions-for-HR/assets/75675790/26a583e8-7380-4ecd-b728-e8567f6c217d)
 
-  The overall model performed with 98% accuracy and 95% precision. 
+
+  The overall random forest model performed with 98% accuracy and 96% precision. 
 
 ### Conclusion
 
