@@ -21,8 +21,19 @@
 
 ### Modelling and Evaluation
   
-  
-  
+  The plot below shows that in this random forest model, last_evaluation, number_project, tenure, and overworked have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left, and they are the same as the ones used by the decision tree model.
+
+  ![image](https://github.com/aliMohamed-Z/Providing-data-driven-suggestions-for-HR/assets/75675790/9ea95ae9-5e27-4dd0-b550-e9f9f6c14619)
+
+  The overall model performed with 98% accuracy and 95% precision. 
+
+### Conclusion
+
+  The models and the feature importances extracted from the models confirm that employees at the company are overworked.
+  To retain employees, the following recommendations could be presented to the stakeholders:
+    Cap the number of projects that employees can work on.
+    Consider promoting employees who have been with the company for atleast four years.
+    Either reward employees for working longer hours, or don't require them to do so.
   
 
 
