@@ -32,11 +32,11 @@
   The models and the feature importances extracted from the models confirm that employees at the company are overworked.
   To retain employees, the following recommendations could be presented to the stakeholders:
   
-    *Cap the number of projects that employees can work on.
+    1-Cap the number of projects that employees can work on.
     
-    *Consider promoting employees who have been with the company for atleast four years.
+    2-Consider promoting employees who have been with the company for atleast four years.
     
-    *Either reward employees for working longer hours, or don't require them to do so.
+    3-Either reward employees for working longer hours, or don't require them to do so.
   
 
 
